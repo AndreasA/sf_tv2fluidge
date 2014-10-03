@@ -5,9 +5,6 @@
         "type": "typo3-cms-extension",
         "replace": {
                 "sf_tv2fluidge": "*"
-        },
-        "require": {
-                "typo3/cms-core": "*"
         }
 }
 
