@@ -5,7 +5,11 @@
         "type": "typo3cms-extension",
         "replace": {
                 "asftv2fluidge": "*"
-        }
+        },
+	"require": {
+		"typo3/cms-core": "6.2.*",
+		"static_info_tables": "6.1.*"
+	}
 }
 
 
