@@ -7,7 +7,8 @@
                 "asftv2fluidge": "*"
         },
 	"require": {
-                "typo3": "6.2.*"
+                "static_info_tables": "6.1.*",
+		"typo3/cms": "6.2.*"
         }
 }
 
