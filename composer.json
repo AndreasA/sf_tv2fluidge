@@ -7,7 +7,7 @@
                 "asftv2fluidge": "*"
         },
 	"require": {
-                "typo3/cms-core": "*"
+                "typo3/cms-cms": "*"
         }
 }
 
