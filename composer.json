@@ -5,11 +5,6 @@
         "type": "typo3cms-extension",
         "replace": {
                 "asftv2fluidge": "*"
-        },
-	"require": {
-		"lw/typo3cms-installers": "*",
-                "static_info_tables": "6.1.*",
-		"typo3/cms": "6.2.*"
         }
 }
 
