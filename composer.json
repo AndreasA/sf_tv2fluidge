@@ -5,7 +5,7 @@
         "type": "typo3-cms-extension",
         "replace": {
                 "asftv2fluidge": "*",
-		"cms": "6.2.*"
+		"typo3/cms-core": "6.2.*"
         }
 }
 
