@@ -2,7 +2,7 @@
         "name": "andreasa/asftv2fluidge",
         "version": "0.2.3",
         "description": "Locate stores or other places on a google map",
-        "type": "typo3cms-extension",
+        "type": "typo3-cms-extension",
         "replace": {
                 "asftv2fluidge": "*"
         },
