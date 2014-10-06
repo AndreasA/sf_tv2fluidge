@@ -4,7 +4,6 @@
         "description": "Locate stores or other places on a google map",
         "type": "typo3-cms-extension",
         "replace": {
-		"temp/asftv2fluidge": "*",
                 "asf_tv2fluidge": "*"
         },
 	"require": {
